@@ -15,5 +15,4 @@ Exemple de lignes générées :
 [2012-02-25 07:38:51] # 106.0.139.73 => Connected to : about.php  
 [2014-06-04 18:50:52] # 209.131.55.128 => Connected to : login.php  
 [2015-02-22 03:29:40] # 217.196.112.13 => Connected to : index.php   
-[..]  
 [2014-04-03 00:21:06] # 30.132.112.57 => Connected to : logout.php
