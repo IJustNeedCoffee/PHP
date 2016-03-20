@@ -1,11 +1,11 @@
 # Réécriture de nombre V1.0
-Un petit script qui réécrit les nombres sous forme numérique en nombre sous dorme algébrique.  
+Un petit script qui réécrit les nombres sous forme numérique en nombre sous forme algébrique.  
 Exememple : 2 300 000 devient 2.3 millions  
   
 Il fait également savoir que les nombres en sortie sont arrondis.  
 Ainsi 2 300 001 devient également 2.3 millions 
   
-Pour le références des l'écriture algébrique des nombres, je me suis référé à wikipedia :  
+Pour les références de l'écriture algébrique des nombres, je me suis référé à wikipedia :  
 Lien : https://fr.wikipedia.org/wiki/Liste_de_nombres#Nombres_cardinaux  
   
 Notez également que, bien qu'en php les limites de taille pour les variables soient innexistantes, il vous faudra probablement faire une croix sur les exposants 309 et plus.  
