@@ -12,5 +12,5 @@ Notez également que, bien qu'en php les limites de taille pour les variables so
 A moins d'avoir un ordinateur quantique sous la main, je suis un peu sceptique sur la capacité d'un serveur à gérer des nombres aussi grands. Si vous avez l'occasion de tester, je serait curieux de savoir ce qu'il en est donc n'héistez pas à m'éclairer là dessus ;)
 
 ## Pour la V2
-[ ] Gérer les pluriels
-[ ] Chercher une réponse pour les grands exposants
+- [ ] Gérer les pluriels
+- [ ] Chercher une réponse pour les grands exposants
