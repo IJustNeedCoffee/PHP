@@ -11,4 +11,6 @@ Lien : https://fr.wikipedia.org/wiki/Liste_de_nombres#Nombres_cardinaux
 Notez également que, bien qu'en php les limites de taille pour les variables soient innexistantes, il vous faudra probablement faire une croix sur les exposants 309 et plus.  
 A moins d'avoir un ordinateur quantique sous la main, je suis un peu sceptique sur la capacité d'un serveur à gérer des nombres aussi grands. Si vous avez l'occasion de tester, je serait curieux de savoir ce qu'il en est donc n'héistez pas à m'éclairer là dessus ;)
 
-> L'algorithme le gère pas encore les pluriels, ainsi 1 000 000  affiche "1 millions" en sortie. Je sort ça rapidement promis !
+## Pour la V2
+[ ] Gérer les pluriels
+[ ] Chercher une réponse pour les grands exposants
